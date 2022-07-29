@@ -1,6 +1,6 @@
 # main text of home
-name: Rafael Leandro
-bio: iOS Developer
+name: Jackson Silva
+bio: backend developer
 
 # twitter summary info
 description:
@@ -16,7 +16,6 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://raafas.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,29 +33,29 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: crf_rafa
+#twitter: crf_rafa
 # google: mygoogle
-instagram: eusoulrafa
+instagram: jackson_____
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: raafas
+github: jack-vaio
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: rafaelleandro
+#medium: rafaelleandro
 # vimeo: myvimeo
-email: rsousa.dev@gmail.com
+email: jk_ss@live.com
 
 authors:
     rafael:
-        name: Rafael Leandro
-        bio: iOS Developer
+        name: Jackson Silva
+        bio: backend developer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: crf_rafa
+        #twitter: crf_rafa
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
